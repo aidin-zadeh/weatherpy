@@ -7,14 +7,14 @@ This repository contains Python/IPython files for the 'What's the Weather Like?'
 The aim of this project is to perform quantitative analysis of different weather trend data with respect to latitude.
 This project follows the below 6 objectives:
 
-- Demonstrate and analyse Temperature variations (F) vs. Latitude
-- Demonstrate and analyse Humidity variations (%)  vs. Latitude
-- Demonstrate and analyse Cloudiness variations (%) vs. Latitude
-- Demonstrate and analyse  Wind Speed variations (mph) vs. Latitude
-- Demonstrate and analyse Temperature variations (F) vs. Latitude-Longitude
-- Demonstrate and analyse Humidity variations (%)  vs. Latitude-Longitude
-- Demonstrate and analyse Cloudiness variations (%) vs. Latitude-Longitude
-- Demonstrate and analyse  Wind Speed variations (mph) vs. Latitude-Longitude
+- Demonstrate and analyze Temperature variations (F) vs. Latitude
+- Demonstrate and analyze Humidity variations (%)  vs. Latitude
+- Demonstrate and analyze Cloudiness variations (%) vs. Latitude
+- Demonstrate and analyze  Wind Speed variations (mph) vs. Latitude
+- Demonstrate and analyze Temperature variations (F) vs. Latitude-Longitude
+- Demonstrate and analyze Humidity variations (%)  vs. Latitude-Longitude
+- Demonstrate and analyze Cloudiness variations (%) vs. Latitude-Longitude
+- Demonstrate and analyze  Wind Speed variations (mph) vs. Latitude-Longitude
 
 ## Data
 The evaluation weather data is a collection of current weather data retrieved from 1000 different cities uniformly sampled from across the world.
@@ -53,6 +53,9 @@ This repo contains three directories: 'fig', 'img' and 'log':
 ## References
 - [OpenWeatherMap Current Weather API](https://openweathermap.org/current)
 - [citipy](https://github.com/wingchen/citipy.git)
+
+## To Do
+- [ ] Add geomap analyses
 
 ## License
 NA
