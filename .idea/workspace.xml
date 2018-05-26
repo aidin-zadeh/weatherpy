@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d323f22-0697-4826-98bb-d6d3aac181be" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/city-distribution-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/city-distribution-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/city-distribution-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/city-distribution-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-geomap-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-geomap-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-geomap-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-geomap-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-vs-latitude-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-vs-latitude-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-vs-latitude-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/cloudiness-vs-latitude-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-geomap-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-geomap-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-geomap-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-geomap-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-vs-latitude-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-vs-latitude-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-vs-latitude-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/humidity-vs-latitude-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-geomap-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-geomap-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-geomap-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-geomap-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-vs-latitude-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-vs-latitude-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-vs-latitude-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/temperature-vs-latitude-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-geomap-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-geomap-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-geomap-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-geomap-2018-05-26-08-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-vs-latitude-2018-05-26-06-43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-vs-latitude-2018-05-26-06-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-vs-latitude-2018-05-26-08-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/figures/wind-speed-vs-latitude-2018-05-26-08-11.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_22_1.png" afterPath="$PROJECT_DIR$/images/output_22_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_25_0.png" afterPath="$PROJECT_DIR$/images/output_25_0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_27_0.png" afterPath="$PROJECT_DIR$/images/output_27_0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_29_0.png" afterPath="$PROJECT_DIR$/images/output_29_0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_31_0.png" afterPath="$PROJECT_DIR$/images/output_31_0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_34_1.png" afterPath="$PROJECT_DIR$/images/output_34_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_36_1.png" afterPath="$PROJECT_DIR$/images/output_36_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_38_1.png" afterPath="$PROJECT_DIR$/images/output_38_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/output_40_1.png" afterPath="$PROJECT_DIR$/images/output_40_1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/0.0-weatherpy-main-checkpoint.ipynb" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/0.0-weatherpy-main-checkpoint.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notebooks/0.0-weatherpy-main.ipynb" afterPath="$PROJECT_DIR$/notebooks/0.0-weatherpy-main.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,8 +82,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="864">
-                <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <first_editor relative-caret-position="576">
+                <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -171,8 +218,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="864">
-            <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <first_editor relative-caret-position="576">
+            <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />

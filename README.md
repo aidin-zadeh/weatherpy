@@ -3,7 +3,7 @@
 By *Aidin Hassanzadeh*
 ___
 
-This repository contains Python/IPython files for the 'What's the Weather Like?' project.
+This repository contains Python/NootebookIPython files for the 'What's the Weather Like?' project.
 The aim of this project is to perform quantitative analysis of different weather trend data with respect to latitude.
 This project follows the below 6 objectives:
 
@@ -36,24 +36,37 @@ The visual report containing the discovered insights and the detailed implementa
 ## Requirements
 - python=3.6.5
 - jupyter=1.0.0
-- notebook=5.4.1
+- nb_conda=2.2.1
 - numpy=1.14.2
 - matplotlib=2.2.2
 - pandas=0.22.0
 - scipy=1.1.0
-
+- basemap=1.1.0
+- citipy=0.0.1
 
 ## Directory Structure
 This repo contains three directories: 'fig', 'img' and 'log':
 
 ```bash
-|__ images           <- Images for README.md files.
-├── notebooks
+|__ images          <- Images for README.md files.
+├── notebooks       <- Ipython notebook files.
 ├── reports         <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   ├── figures     <- Generated graphics and figures to be used in reporting
 │   └── logs        <- Generated log files
 └── src             <- Source code for use in this project.
 ```
+
+### Installation
+Install python dependencies from  `requirements.txt` using conda.
+```bash
+conda install --yes --file requirements.txt
+```
+
+Or create a new conda environment `<new-env-name>` by importing a copy of a working conda environment stored at root directory :`weatherpy.yml`.
+```bash
+conda env create --name <new-env-name> -f "weatherpy.yml"
+```
+
 ## References
 - [OpenWeatherMap Current Weather API](https://openweathermap.org/current)
 - [citipy](https://github.com/wingchen/citipy.git)
