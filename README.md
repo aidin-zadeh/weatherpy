@@ -31,7 +31,7 @@ The generation of the evaluation data consists of the following stages:
 The city to grid assignment was performed by [citipy](https://github.com/wingchen/citipy.git) module.
 
 ## Report
-The visual report containing the detailed implementation and the discovered insights is available by a Jupyter Noebook [here]().
+The visual report containing the discovered insights and the detailed implementation are available by a Jupyter Noebook [here](https://github.com/aidinhass/weatherpy/blob/master/notebooks/README.md).
 
 ## Requirements
 - python=3.6.5
@@ -46,10 +46,14 @@ The visual report containing the detailed implementation and the discovered insi
 ## Directory Structure
 This repo contains three directories: 'fig', 'img' and 'log':
 
-- 'fig': 'png' files of scatter and geo-map plots.
-- 'log': 'csv' file containing all weather data retrieved.
-- 'img': image files accompany the repo 'README.md' file.
-
+```bash
+|__ images           <- Images for README.md files.
+├── notebooks
+├── reports         <- Generated analysis as HTML, PDF, LaTeX, etc.
+│   ├── figures     <- Generated graphics and figures to be used in reporting
+│   └── logs        <- Generated log files
+└── src             <- Source code for use in this project.
+```
 ## References
 - [OpenWeatherMap Current Weather API](https://openweathermap.org/current)
 - [citipy](https://github.com/wingchen/citipy.git)
